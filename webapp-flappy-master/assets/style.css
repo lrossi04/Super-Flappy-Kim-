@@ -1,0 +1,34 @@
+#title {
+  color: darkgreen;
+  font-size: 35px;
+  font-style: italic;
+  font-family:  "Helvetica Neue";
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+#Intro {
+  color: #7d9c0a;
+  font-style:oblique;
+}
+
+.list1{
+  font-weight: 400;
+}
+
+.col-md-4{
+    text-align: center;
+}
+
+li {
+  font-size: 20px;
+}
+
+.active
+{
+  background-color: red;
+}
