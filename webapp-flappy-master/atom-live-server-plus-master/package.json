@@ -18,7 +18,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "json5": "^0.5.1",
+    "json5": "^1.0.2",
     "live-server": "^1.2.0",
     "strip-ansi": "^4.0.0"
   },
